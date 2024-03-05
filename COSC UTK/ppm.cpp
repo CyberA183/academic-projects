@@ -1,7 +1,5 @@
 /* Program Name: PPM Manipulation
  * Student Name: Ariel Thompson
- * Net ID: athom211
- * Student ID: 000-66-6497
  * Program Description: The PPM Manipulation Program takes a ppm file (from file input and standard input) and prints 
  * out a new image to an output files through a set of commands.*/
 
