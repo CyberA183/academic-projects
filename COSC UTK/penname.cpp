@@ -1,5 +1,5 @@
 /* Program Name: Penname
- * Student Name: Lauren Thompson
+ * Student Name: Ariel Thompson
  * Program Description: The penname.cpp program takes your current information such as your first name, middle name, age, street address, and
  * birth city and generates random penname information for use.
  */
