@@ -1,7 +1,5 @@
 /* Program Name: Speeding Ticket Calculator
  * Student Name: Ariel Thompson
- * Net ID: NETID athom211
- * Student ID: 000-66-6497
  * Program Description: The speeding ticket calculator program takes a input ticket file, produced by a police database
  * and creates a formatted output file that prints the date, ticket number, and the calculated ticket fee total. */
 
