@@ -1,5 +1,5 @@
 /* Program Name: Take Home Pay
- * Student Name: Lauren Thompson
+ * Student Name: Ariel Thompson
  * Program Description: This program takes a users inputted anual salary and calculates
  * their take home salary (post-tax) and their monthly take home pay.
  *  */
