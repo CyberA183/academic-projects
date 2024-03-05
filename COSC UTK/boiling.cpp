@@ -1,5 +1,5 @@
 /* Program Name: Boiling Water
- * Student Name: Lauren Thompson
+ * Student Name: Ariel Thompson
  * Program Description: The Boiling Water Program prompts the user to select a city and calculates the boiling point
  *  of the city based on the city's altitude.*/
 
