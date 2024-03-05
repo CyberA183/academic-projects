@@ -1,5 +1,5 @@
 /* Program Name: BITSET
- * Student Name: Lauren Thompson
+ * Student Name: Ariel Thompson
  * Program Description: The BITSET lab uses bitset operators to solve various designed problems. */
 
 #include <bitset>
